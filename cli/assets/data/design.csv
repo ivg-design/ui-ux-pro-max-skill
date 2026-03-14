@@ -4,7 +4,7 @@ Bauhaus（包豪斯）
 2. 工具类与高效率 App
 3. 数字媒体与在线杂志
 
-"<design-system>"
+<design-system>
 Design Style: Bauhaus (Mobile)
 1. Design Philosophy
 The Bauhaus style embodies the revolutionary principle "form follows function" while celebrating pure geometric beauty and primary color theory. On mobile, this translates to tactile constructivism—the screen is a canvas where elements are physically stacked blocks. The aesthetic creates a high-impact, poster-like experience in the palm of the hand: bold, touch-centric, and unapologetically graphic.
@@ -12,7 +12,7 @@ Vibe: Tactile, Constructivist, Geometric, High-Contrast, Bold, Architectural
 Core Concept: The mobile interface is a vertical geometric composition. Scroll views are not just content streams but stacked layers of colored paper and rigid shapes. The limited screen real estate forces a focus on massive typography and distinct color blocking (Red #D02020, Blue #1040C0, Yellow #F0C020). Every tap should feel mechanical and substantial.
 Key Characteristics:
 ● Geometric Purity: UI elements are strictly circles (buttons/avatars) or squares (cards/inputs).
-● Tactile Depth: Hard shadows indicate interactivity; elements look "pressable."
+● Tactile Depth: Hard shadows indicate interactivity; elements look 'pressable.'
 ● Color Blocking: distinct screen sections use solid primary colors to separate content without whitespace.
 ● Thick Borders: 2px and 3px black borders ensure legibility and distinct separation on small screens.
 ● Vertical Rhythm: Strong vertical stacking with deliberate spacing, avoiding clutter.
